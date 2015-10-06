@@ -1,0 +1,3 @@
+rm *_encoded.bmp
+rm combined.bmp
+rm *.out
